@@ -1,2 +1,2 @@
 # s3-class-wors
-echo "hello world"
+echo "hello beautiful world"
